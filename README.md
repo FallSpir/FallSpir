@@ -39,6 +39,9 @@ Focusing on Mobile Development and Web3 software.
 
 ---
 
-## 🤝 Contact
-- Telegram: [@FallSpir](https://t.me/FallSpir)  
-- Email: your-email@example.com  
+## 🌐 Connect with Me
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/FallSpir)
+
+---
+
+*💡 Open to collaborations and interesting projects!*
